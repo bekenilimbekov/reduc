@@ -1,0 +1,2 @@
+# reduc
+reduc function
